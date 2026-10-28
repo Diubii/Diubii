@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="200" src="https://gstats.buddies-dev.de/api?username=Diubii&theme=onedark" alt="Image 1" />
-  <img height="200" src="https://gstats.buddies-dev.de/api/top-langs/?username=Diubii&layout=compact&langs_count=8&theme=onedark" alt="Image 2" />
-</div>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Diubii&theme=palenight&hide_border=true&hide_title=true)
 <!--
 **Diubii/Diubii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
