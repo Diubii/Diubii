@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Diubii&theme=palenight&hide_border=true&hide_title=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Diubii&theme=palenight&hide_border=true&hide_title=true&hide=grade%2Cfollowers%2Crepos%2Cactive_day%2Cavg)
 <!--
 **Diubii/Diubii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
